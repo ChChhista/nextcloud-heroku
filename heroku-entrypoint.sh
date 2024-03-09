@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#a2dismod mpm_prefork
+a2dismod mpm_prefork
 
 #service apache2 restart
 
